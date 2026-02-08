@@ -1,0 +1,6 @@
+FlowClass/obj/
+FlowClassConsoleApp/bin/
+FlowClassConsoleApp/obj/
+*.json
+FlowClass/bin/
+.vs/
